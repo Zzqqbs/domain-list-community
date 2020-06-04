@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # This list contains domains that don't have access point in China. This is opposite to geolocation-cn.
 
 # VPN services
@@ -157,3 +158,193 @@ include:tsquare
 include:windy
 include:xdty
 include:xingrz
+=======
+# This list contains domains that don't have access point in China. This is opposite to geolocation-cn.
+
+# VPN services
+include:category-vpnservices
+
+# VPN tools & Privacy protection & Anti-GFW & Anti-censorship
+include:category-anticensorship
+
+# Porn
+include:category-porn
+
+# News & Press & Media
+include:category-media
+
+# Science & Technology & Knowledge & Scholar & Press
+include:category-scholar-!cn
+include:cern
+include:chinapower
+include:edx
+include:knovel
+include:ted
+
+# Software development related
+include:category-dev
+
+# Tech companies & Orginations
+include:adobe
+include:amazon
+include:apple
+include:atlassian
+include:facebook
+include:godaddy
+include:google
+include:hinet
+include:hp
+include:ibm
+include:linkedin
+include:microsoft
+include:mozilla
+include:nvidia
+include:oracle
+include:salesforce
+include:samsung
+include:twitter
+include:uber
+include:yahoo
+include:yandex
+
+# CDN companies & Services
+include:cloudflare
+include:fastly
+include:pagecdn
+include:quantil
+include:stackpath
+
+# Certificate authorities
+# Reference: https://en.wikipedia.org/wiki/Certificate_authority
+include:buypass
+include:comodo
+include:digicert
+include:entrust
+include:globalsign
+include:identrust
+include:letsencrypt
+include:secom
+include:sectigo
+include:swisssign
+include:telekom
+include:trustwave
+include:verisign
+
+# Services & Softwares
+include:addthis
+include:addtoany
+include:apkpure
+include:bitwarden
+include:digitalocean
+include:disqus
+include:dropbox
+include:duckduckgo
+include:entermediadb
+include:evernote
+include:faststone
+include:feedly
+include:figma
+include:gofundme
+include:gravatar
+include:heroku
+include:imgur
+include:infrapedia
+include:inoreader
+include:jwplayer
+include:linguee
+include:netlify
+include:notion
+include:osdn
+include:patreon
+include:pinterest
+include:protonmail
+include:quip
+include:sharethis
+include:shopify
+include:sourceforge
+include:startpage
+include:steemit
+include:stripe
+include:trello
+include:tumblr
+include:vercel
+include:webflow
+include:wix
+include:wordpress
+include:zeplin
+
+# Communications
+include:discord
+include:line
+include:signal
+include:slack
+include:telegram
+
+# E-commerce
+include:bestbuy
+include:dmm
+include:ebay
+include:nike
+include:shopee
+
+# Entertainment & Videos & Games & Music
+include:archiveofourown
+include:attwatchtv
+include:bandcamp
+include:deviantart
+include:disney
+include:epicgames
+include:hbo
+include:hulu
+include:kingkonglive
+include:litv
+include:moov
+include:netflix
+include:nintendo
+include:pixiv
+include:playstation
+include:soundcloud
+include:spotify
+include:steam
+include:steamunlocked
+include:tiktok
+include:twitch
+include:ubi
+include:vimeo
+include:viu
+include:weverse
+include:yande
+include:yyets
+
+# Forums
+include:dcard
+include:lihkg
+include:pincong
+include:quora
+include:reddit
+
+# Organizations
+include:archive
+include:change
+include:csis
+include:globalsecurity
+include:ruleoflaw
+include:un
+include:who
+include:wikimedia
+include:wto
+
+# Advertisment & Analytics
+include:pubmatic
+include:taboola
+
+# Others
+include:fonts
+include:hkedcity
+include:huanghuagang
+include:rarbg
+include:tsquare
+include:windy
+include:xdty
+include:xingrz
+>>>>>>> 9bbf84cdd4430a3cac7434122f990e8916ce7d81

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 amazon.com
 amazon.com.au
 amazon.co.uk
@@ -24,3 +25,33 @@ primevideo.com
 aws
 
 include:amazon-ads
+=======
+amazon.com
+amazon.com.au
+amazon.co.uk
+amazon.co.jp
+amazon.de
+amazon.jp
+amazon.jobs
+amazontrust.com
+amzn.com
+media-amazon.com
+ssl-images-amazon.com
+
+# AWS
+amazonaws.com
+amplifyapp.com
+awsstatic.com
+awstrust.com
+cloudfront.net
+elasticbeanstalk.com
+
+# Prime Video
+amazonvideo.com
+primevideo.com
+
+# All .aws domains
+aws
+
+include:amazon-ads
+>>>>>>> 9bbf84cdd4430a3cac7434122f990e8916ce7d81

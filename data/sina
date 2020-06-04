@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sina.com
 sinaimg.cn
 sina.com.cn
@@ -13,3 +14,21 @@ weibo.cn
 weibocdn.com
 
 include:sina-ads
+=======
+97973.com
+sina.com
+sinaimg.cn
+sina.com.cn
+sinajs.cn
+sina.cn
+sinaapp.com
+sinaedge.com
+sinaimg.com
+sinajs.com
+weibo.com
+weibo.com.cn
+weibo.cn
+weibocdn.com
+
+include:sina-ads
+>>>>>>> 9bbf84cdd4430a3cac7434122f990e8916ce7d81

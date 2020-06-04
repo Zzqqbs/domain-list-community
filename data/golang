@@ -1,2 +1,13 @@
+<<<<<<< HEAD
 golang.org
 go.dev
+=======
+go-lang.com
+go-lang.net
+go-lang.org
+go.dev
+godoc.org
+golang.com
+golang.net
+golang.org
+>>>>>>> 9bbf84cdd4430a3cac7434122f990e8916ce7d81

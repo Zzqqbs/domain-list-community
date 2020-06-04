@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 71.am
 iqiyi.com
 iqiyipic.com
@@ -10,3 +11,18 @@ qy.net
 71edge.com
 
 include:iqiyi-ads
+=======
+71.am
+iqiyi.com
+iqiyipic.com
+pps.tv
+ppsimg.com
+qiyi.com
+qiyipic.com
+qy.net
+
+# CDN used by iqiyi
+71edge.com
+
+include:iqiyi-ads
+>>>>>>> 9bbf84cdd4430a3cac7434122f990e8916ce7d81

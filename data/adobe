@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 adobe.com
 adobe.io
 adobeaemcloud.com
@@ -12,3 +13,20 @@ edgefonts.net
 omtrdc.net
 
 include:typekit
+=======
+adobe.com
+adobe.io
+adobeaemcloud.com
+adobeaemcloud.net
+adobeccstatic.com
+adobedc.net
+adobedtm.com
+adobelogin.com
+adobeoobe.com
+assetsadobe.com
+behance.net
+edgefonts.net
+omtrdc.net
+
+include:typekit
+>>>>>>> 9bbf84cdd4430a3cac7434122f990e8916ce7d81
